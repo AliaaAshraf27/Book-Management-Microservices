@@ -1,0 +1,25 @@
+{
+  "EmailAlreadyExists": "Email is already registered",
+  "UsernameAlreadyExists": "Username is already registered",
+  "RegistrationSuccess": "Registration completed successfully",
+  "Error": "Problem adding the account",
+  "EmailIsNotExist": "Email is not exist",
+  "PasswordIsNotExist": "Password is not exist",
+  "InvalidRefreshToken": "Invalid refresh token",
+  "UserNotFound": "User not found",
+  "LoggedOutSuccessfully": "Logged out successfully",
+  "TokenRefreshedSuccessfully": "Token refreshed successfully",
+  "PasswordsDoNotMatch": "Passwords do not match",
+  "FailedChangePassword": "Failed to change password",
+  "ChangePassword": "Password changed successfully",
+  "PasswordNotExist": "Password does not exist",
+  "TokenRefreshed": "Token refreshed successfully",
+  "LoggedOut": "Logged out successfully",
+  "InvalidRequest": "Invalid request.",
+  "PasswordResetToken": "Password reset token: {0}",
+  "PasswordChanged": "Your password has been changed successfully.",
+  "InvalidEmailOrPassword": "Invalid email or password.",
+  "ProfileUpdated": "Profile updated successfully",
+  "ProfileDeleted": "Profile deleted"
+
+}

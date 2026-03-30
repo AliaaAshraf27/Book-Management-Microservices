@@ -1,0 +1,22 @@
+{
+  "EmailAlreadyExists": "البريد الإلكتروني مسجل بالفعل",
+  "UsernameAlreadyExists": "اسم المستخدم مسجل بالفعل",
+  "RegistrationSuccess": "تم التسجيل بنجاح",
+  "Error": "حدثت مشكلة أثناء إضافة الحساب",
+  "InvalidRefreshToken": "رمز التحديث غير صالح",
+  "UserNotFound": "المستخدم غير موجود",
+  "LoggedOutSuccessfully": "تم تسجيل الخروج بنجاح",
+  "TokenRefreshedSuccessfully": "تم تحديث الرمز بنجاح",
+  "PasswordsDoNotMatch": "كلمات المرور غير متطابقة",
+  "NoAdminsFound": "لا يوجد أي مسؤولين",
+  "PasswordNotExist": "كلمة المرور غير موجودة",
+  "TokenRefreshed": "تم تحديث التوكن بنجاح",
+  "LoggedOut": "تم تسجيل الخروج بنجاح",
+  "FailedChangePassword": "فشل في تغيير كلمة المرور",
+  "InvalidRequest": "طلب غير صالح.",
+  "PasswordResetToken": "رمز إعادة تعيين كلمة المرور:{0}.",
+  "PasswordChanged": "تم تغيير كلمة المرور بنجاح.",
+  "InvalidEmailOrPassword": "البريد الإلكتروني أو كلمة المرور غير صحيحة.",
+  "ProfileUpdated": "تم تحديث الملف الشخصي بنجاح.",
+  "ProfileDeleted": "تم حذف الملف الشخصي نهائيا."
+}
