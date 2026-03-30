@@ -12,12 +12,13 @@ It is built using Clean Architecture, which separates concerns into independent 
 - Provide a review system for users to rate and comment on books
 - Send and manage notifications for important events
 - Provide secure authentication and authorization using JWT and Identity
+- Implemented real-time notifications using SignalR
 
 ⚡ Performance & Scalability
 The system is optimized using:
 - Redis caching to improve response time
 - Entity Framework Core (Code First) for database management
-- RabbitMQ
+- RabbitMQ , SignalR
 
  🚀 Features 
 - Authentication & Authorization using JWT
@@ -28,5 +29,5 @@ The system is optimized using:
 - Borrowing System (Borrow / Approve / Return)
 - Fine System (Pay fines)
 - Review System
-- Notifications System
+- Notifications System 
 - Globalization and Localization 
